@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "49242983062",
+    "project_id": "ddcet-cipher",
+    "storage_bucket": "ddcet-cipher.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49242983062:android:5bd12603f559aed52f10b7",
+        "android_client_info": {
+          "package_name": "com.galaxies.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49242983062-3itkcuekup3itpo7melt79rqstvr0l5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDosk_qpdH7IMKJwVD3ArKg4kraVGJuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49242983062-3itkcuekup3itpo7melt79rqstvr0l5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49242983062-q81fj3vdnf4d9gb4cvjlr6gik9lqdn8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galaxies.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
