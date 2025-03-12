@@ -88,7 +88,7 @@ android {
 
     namespace 'com.mycompany.ddcetcipher'
     defaultConfig {
-        applicationId 'com.galaxies.firebase'
+        applicationId 'com.mycompany.ddcetcipher'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
